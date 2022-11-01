@@ -1,0 +1,6 @@
+C:\Users\Fede\source\repos\poo-polimorfismo\LibAjedrez\bin\Debug\LibAjedrez.dll
+C:\Users\Fede\source\repos\poo-polimorfismo\LibAjedrez\bin\Debug\LibAjedrez.pdb
+C:\Users\Fede\source\repos\poo-polimorfismo\LibAjedrez\obj\Debug\LibAjedrez.csproj.AssemblyReference.cache
+C:\Users\Fede\source\repos\poo-polimorfismo\LibAjedrez\obj\Debug\LibAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\Fede\source\repos\poo-polimorfismo\LibAjedrez\obj\Debug\LibAjedrez.dll
+C:\Users\Fede\source\repos\poo-polimorfismo\LibAjedrez\obj\Debug\LibAjedrez.pdb
